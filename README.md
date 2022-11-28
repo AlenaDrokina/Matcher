@@ -5,6 +5,14 @@ You choose what movies you would like to see, seen, or you didn't like/ don't wa
 Then when you select your likings, you can see them on the Liked/Seen/Disliked page.
 And if you click on the movie a title and description will be provided to you.
 
+# Problem 
+
+The problem is that we sometimes waste too much time on looking for movies to watch.
+
+# Solution 
+
+Matcher helps you make your life easier by saving all the movies and Tv shows in one place so when you are about to watch something with your firends 
+
 # Dependencies
 
 Run `npm install` in project directory. This will install server-related dependencies such as express.
@@ -23,3 +31,17 @@ Run `npm i react-icons` if you want use and install the icons from react.
 Run `npm start` in project directory to start the Express server on port 5000
 
 In another terminal, do `cd my-express-app` and run `npm start` to start the client in development mode with hot reloading in port 3000.
+
+# tech used 
+
+React
+React Router
+HTML
+CSS
+JavaScript
+
+# Api 
+
+From the movie database
+
+
